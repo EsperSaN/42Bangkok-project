@@ -4,3 +4,30 @@
 [submodule "NetPractice"]
 	path = NetPractice
 	url = https://github.com/EsperSaN/NetPractice
+[submodule "so_long"]
+	path = so_long
+	url = https://github.com/EsperSaN/so_long
+[submodule "pipex"]
+	path = pipex
+	url = https://github.com/EsperSaN/pipex
+[submodule "libft"]
+	path = libft
+	url = https://github.com/EsperSaN/libft
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/EsperSaN/ft_printf
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/EsperSaN/get_next_line
+[submodule "CPP"]
+	path = CPP
+	url = https://github.com/EsperSaN/CPP
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/EsperSaN/minishell
+[submodule "philosopher"]
+	path = philosopher
+	url = https://github.com/EsperSaN/philosopher
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/EsperSaN/push_swap
